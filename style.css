@@ -1,0 +1,15 @@
+.form{
+    border: solid 1px black ;
+    height:100vh;
+}
+#check{
+    display: none;
+   
+}
+#check1{
+    display: none ;
+   
+}
+#check1:active{
+    margin-top: 200px;
+}
